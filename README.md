@@ -1,2 +1,2 @@
 # propertyincome
-calculates when profit has no deficit for personal property
+calculates net profit/deficit for personal property over inputted time
